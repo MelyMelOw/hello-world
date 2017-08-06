@@ -1,2 +1,3 @@
 # hello-world
 My Hello World project
+Hello, my name is Amélie I am 28 years old and I try to reconquer my love for development after a few years out of the road...
